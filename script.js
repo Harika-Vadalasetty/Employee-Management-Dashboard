@@ -51,4 +51,5 @@ addEmployeeBtn.onclick = function () {
     );
 
     console.log("Employee Added:", employee);
+    alert("Employee data successfully added!");
 };
